@@ -1,0 +1,7 @@
+name: Checklogin
+version: 1.0
+author: Kato14123
+main: me.Kato14123.Checklogin.Main
+description: Checklogin
+
+commands:
